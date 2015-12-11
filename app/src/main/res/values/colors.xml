@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text_primary">#404040</color>
+    <color name="black">#000000</color>
+    <color name="gray_dark">#808080</color>
+    <color name="gray_light">#d8d8d8</color>
+    <color name="gray">#b4b4b4</color>
+    <color name="background">#4e7690</color>
+    <color name="profile_text">#4e7690</color>
+    <color name="transparent">#FFFFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="time_color">#fe7b7b</color>
+    <color name="red">#FF0000</color>
+
+    <color name="actionbar_color">#314e6e</color>
+    <color name="tabs_color">#2a4562</color>
+    <color name="item_selected">#2a4562</color>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DaggerApplicationDefaults</string>
+    <string name="from">Откуда</string>
+    <string name="to">Куда</string>
+    <string name="begin_date">Дата начала</string>
+    <string name="end_date">Дата конца</string>
+    <string name="send">Отправить</string>
+    <string name="no_data">Нет машин</string>
+    <string name="auto">Автомобиль</string>
+    <string name="freeSeats">Свободных мест</string>
+    <string name="price">Цена</string>
+    <string name="destination">Назначение</string>
+</resources>
